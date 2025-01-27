@@ -1,0 +1,167 @@
+1. Welcome to Bridgelabz!
+
+public class Main{
+	
+	public static void main(String args[]){
+	
+		System.out.println("Welcome to Bridgelabz!");
+	}
+}
+
+
+2. Add Two Numbers
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		
+		System.out.println(a+b);
+	}
+}
+
+3. Celsius to Fahrenheit Conversion
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		
+		System.out.println((a*(9/5)+32);
+	}
+}
+
+4. Area of a Circle
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		
+		System.out.println((22/7)*a*a);
+	}
+}
+
+5. Volume of a Cylinder
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+
+		System.out.println((22/7)*a*a*b);
+	}
+}
+
+6.Calculate Simple Interest
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=sc.nextInt();
+		
+		
+		System.out.println((a*b*c)/100);
+	}
+	
+7.Perimeter of a Rectangle
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+
+		System.out.println(2*(a+b));
+	}
+}
+ 8.Power Calculation
+ 
+ import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+
+		System.out.println(Math.pow(a,b));
+	}
+}
+
+9. Calculate Average of Three Numbers
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=sc.nextInt();
+
+		System.out.println((a+b+c)/3);
+	}
+}
+
+10.Convert Kilometers to Miles
+
+import java.util.*;
+
+public class Main{
+	
+	public static void main(String args[]){
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int a=sc.nextInt();
+		
+
+		System.out.println(a*0.621371.);
+	}
+}
+
+
+
+
+
