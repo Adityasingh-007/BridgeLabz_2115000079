@@ -19,3 +19,5 @@ Completed Assignment 9 (Java constructor) on 2-02-2025
 Completed Assignment 10 (this, static, final key words and instanceof operator) on 04-02-2025
 
 Completed Assignment 11 (Object oriented design principles ) on 06-02-2025
+
+Completed Assignment 12 (Inheritance) on 07-02-2025
