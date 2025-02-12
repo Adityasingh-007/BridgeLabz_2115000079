@@ -21,3 +21,7 @@ Completed Assignment 10 (this, static, final key words and instanceof operator) 
 Completed Assignment 11 (Object oriented design principles ) on 06-02-2025
 
 Completed Assignment 12 (Inheritance) on 07-02-2025
+
+Completed Assignment 13 (Encapsulation, Polymorphism, Interface and Abstract Class) on 10-02-2025
+ 
+Completed Assignment 14 (LinkedList) on 11-02-2025
